@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "P:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\parini\\.android\\build-cache\\82a9e12c086391b5b6838536f65cfbd9dd367a07\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "P:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\parini\\.android\\build-cache\\82a9e12c086391b5b6838536f65cfbd9dd367a07\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

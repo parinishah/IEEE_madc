@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "P:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\parini\\.android\\build-cache\\82a9e12c086391b5b6838536f65cfbd9dd367a07\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "P:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\parini\\.android\\build-cache\\82a9e12c086391b5b6838536f65cfbd9dd367a07\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\KRISH\\Desktop\\Study\\IEEEMadC\\Medical_app\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "P:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\parini\\.android\\build-cache\\82a9e12c086391b5b6838536f65cfbd9dd367a07\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

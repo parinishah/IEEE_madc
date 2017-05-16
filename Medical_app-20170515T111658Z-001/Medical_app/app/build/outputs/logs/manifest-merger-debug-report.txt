@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+application
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\parini\.android\build-cache\82a9e12c086391b5b6838536f65cfbd9dd367a07\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\parini\.android\build-cache\2b5abf93bd67067a0b120fae28d1a5eb19f87afc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\parini\.android\build-cache\8e398ec2daf492e3167f4c74dcb8cdd3ce35ef66\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\parini\.android\build-cache\dab909ff93887df15811831a584be353a179423b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\parini\.android\build-cache\e46a4d08d955df4617fd4086d0a132fcad4f882d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\parini\.android\build-cache\3d07024191e73561bd3f4e623d82d12d176f43ae\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\parini\.android\build-cache\832db9809203eb312d3271d08f61ce30569e708e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\parini\.android\build-cache\e8c44c5670d2cec4e2a25bb2eb6649349b7bd8ef\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\parini\.android\build-cache\8e8aa978ab7194bed2320c3550e1795fa774f7eb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\parini\.android\build-cache\3fd87ff8ee815e951c4a0da230f620892572e720\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.krish.medical_app.Login
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:11:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\parini\.android\build-cache\82a9e12c086391b5b6838536f65cfbd9dd367a07\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\parini\.android\build-cache\2b5abf93bd67067a0b120fae28d1a5eb19f87afc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\parini\.android\build-cache\8e398ec2daf492e3167f4c74dcb8cdd3ce35ef66\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\parini\.android\build-cache\dab909ff93887df15811831a584be353a179423b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\parini\.android\build-cache\e46a4d08d955df4617fd4086d0a132fcad4f882d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\parini\.android\build-cache\3d07024191e73561bd3f4e623d82d12d176f43ae\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\parini\.android\build-cache\832db9809203eb312d3271d08f61ce30569e708e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\parini\.android\build-cache\e8c44c5670d2cec4e2a25bb2eb6649349b7bd8ef\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\parini\.android\build-cache\8e8aa978ab7194bed2320c3550e1795fa774f7eb\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] C:\Users\parini\.android\build-cache\3fd87ff8ee815e951c4a0da230f620892572e720\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\parini\.android\build-cache\82a9e12c086391b5b6838536f65cfbd9dd367a07\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml
+		INJECTED from P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\src\main\AndroidManifest.xml

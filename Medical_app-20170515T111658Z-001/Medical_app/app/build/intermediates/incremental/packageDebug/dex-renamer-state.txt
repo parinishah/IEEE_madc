@@ -1,0 +1,7 @@
+#Mon May 15 18:31:04 IST 2017
+base.0=P\:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4347cf244b567fa61c472489f70e9b76a2719532
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=P\:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_277808b9ebb3eb2116caf5ccf447baadf4810486\\classes.dex
+base.1=P\:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_277808b9ebb3eb2116caf5ccf447baadf4810486
+file.0=P\:\\summer 2017\\ieee app\\Medical_app-20170515T111658Z-001\\Medical_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4347cf244b567fa61c472489f70e9b76a2719532\\classes.dex

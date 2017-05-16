@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\3fd87ff8ee815e951c4a0da230f620892572e720\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_fe658a317bb6898d0da18fff9c76994483bc002e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_793d482a62c8626f610ae0724640102d86afa8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\2b5abf93bd67067a0b120fae28d1a5eb19f87afc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_41a99c0c661d058f0c435e38adb3f7223989bfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\3d07024191e73561bd3f4e623d82d12d176f43ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_7dd9b347533e0eed3d13dbcee23b357ffa53ed52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\dab909ff93887df15811831a584be353a179423b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_87b64a152079cf644d3b2b99296488982d7322c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\832db9809203eb312d3271d08f61ce30569e708e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_8593cdb0dc03edf62b5bbacdc4cb437231500b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta3_3b5c8635117b19373b0b8c6675f3073a9cf3746d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\dab909ff93887df15811831a584be353a179423b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_2dfc1bbba23cd362183ae9e775c592462ef346c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\e46a4d08d955df4617fd4086d0a132fcad4f882d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_df588a7f99925d51903b05867488b3e48f967511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\8e8aa978ab7194bed2320c3550e1795fa774f7eb\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ad85e7592e9e00a42d831fa0f673d837596d3d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\e46a4d08d955df4617fd4086d0a132fcad4f882d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_1838430cece307d986ee053b6addd49e074407f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\e8c44c5670d2cec4e2a25bb2eb6649349b7bd8ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_d53206b68fbbd39f7af26a800f8d588a630463da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\82a9e12c086391b5b6838536f65cfbd9dd367a07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_501da643eb6e6e4be117bd1c3e17c0b0dc3e4fda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\8e398ec2daf492e3167f4c74dcb8cdd3ce35ef66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_e0d5294e87d75c5c2d73f5b1173bdffe04dcb435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\8e8aa978ab7194bed2320c3550e1795fa774f7eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\classes_6e526b6e91a91e62853e54d9884b4aa8d5a378c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_277808b9ebb3eb2116caf5ccf447baadf4810486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="305b24f82421c86b09099b18f8cc69c06c0da281">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4347cf244b567fa61c472489f70e9b76a2719532\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\8e398ec2daf492e3167f4c74dcb8cdd3ce35ef66\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8e017710659c5e38990f8787c5bca5c7e8782188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\parini\.android\build-cache\3d07024191e73561bd3f4e623d82d12d176f43ae\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="P:\summer 2017\ieee app\Medical_app-20170515T111658Z-001\Medical_app\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e52f48472b3bf2ba124233a379c665226757ee47.jar" />
+    </item>
+
+</items>
